@@ -1,5 +1,5 @@
 # CA03: Decision Tree Algorithm
-This is an email spam classifier that uses the Gaussian Naive Bayes model.
+Build a decision tree to understand and visualize the data.
 
 **Data Overview** <br />
 The datset is obtained from the Census Bureau with the salaries of people that are categorized as less than 50k or more than or equal to 50k. These people are categorized by numerous demographic variables, including age, capital gain/loss, education, hours worked per week, marriage status and relationship, occupation, and race and sex.
