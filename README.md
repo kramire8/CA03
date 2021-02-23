@@ -33,7 +33,7 @@ from sklearn.model_selection import RandomizedSearchCV <br />
 from datetime import datetime <br />
 
 ## Author
-Karina Ramirez
+[Karina Ramirez](https://github.com/kramire8 )
 
 ## Contributors 
 This project was provided by Dr. Arin Brahma at Loyola Marymount University for the Intro to Machine Learning course. <br />
